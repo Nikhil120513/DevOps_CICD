@@ -1,1 +1,1 @@
-demo - simple edit trigger CI/CD
+GitHub Actions CI/CD workflow test
